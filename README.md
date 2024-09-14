@@ -17,8 +17,7 @@ Use your knowledge of object-oriented programming, algorithms, the problem solvi
 This project was created on Code.org's JavaLab platform using the built in Neightborhood GUI output. To test and edit this project you must build in Code.org's JavaLab with the Neighborhood GUI enabled. For reference to the Painter class documentation, [you can read more here.](https://studio.code.org/docs/ide/javalab/classes/Painter)
 
 ## Output:
-
-< [Put sketch / Final image here](https://mail.google.com/mail/u/1/?ui=2&ik=28527419a6&attid=0.1&permmsgid=msg-f:1810152648987232488&th=191ef43e601dc8e8&view=fimg&disp=thd&attbid=ANGjdJ-LcDi78B34XYuT5FAlOMw0vD4YDri0Z4YXvkmk9Q72a5_A4lqJ5niNidAMUZdkk6wkO--ZR8NYR7dQJ-F7V5RbiKUDuhhf9bsyGSamSVCt6mYquk1yamSvjtQ&ats=2524608000000&sz=w1920-h919) >
+![alt text](image.png)
 
 ## Reflection
 
